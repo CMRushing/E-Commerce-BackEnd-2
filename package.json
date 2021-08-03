@@ -18,10 +18,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MattCross01/EcommerceBackEnd.git"
+    "url": "git+https://github.com/CMRushing/E-Commerce-BackEnd-2"
   },
   "bugs": {
-    "url": "https://github.com/MattCross01/EcommerceBackEnd/issues"
+    "url": "https://github.com/CMRushing/E-Commerce-BackEnd-2/issues"
   },
-  "homepage": "https://github.com/MattCross01/EcommerceBackEnd#readme"
+  "homepage": "https://github.com/CMRushing/E-Commerce-BackEnd-2#readme"
 }
