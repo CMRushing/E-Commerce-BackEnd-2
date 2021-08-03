@@ -13,9 +13,8 @@
   "dependencies": {
     "dotenv": "^9.0.0",
     "mysql2": "^2.2.5",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.6.5"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CMRushing/E-Commerce-BackEnd-2"
